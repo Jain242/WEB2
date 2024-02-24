@@ -1,0 +1,11 @@
+.block{
+    display: flex;
+    background-color: rgb(250, 247, 207);
+}
+
+.p1{
+    margin: 5% 5% 2% 2%;
+
+}
+h3{text-align: center;
+}
