@@ -3,9 +3,40 @@
     background-color: rgb(250, 247, 207);
 }
 
-.p1{
+.paragraph{
     margin: 5% 5% 2% 2%;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;   
+    color: #7D7987
 
 }
+
 h3{text-align: center;
 }
+
+
+a {
+    text-decoration: none;
+    }
+.nav{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    }
+
+.main{
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+    }
+
+.newh{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    }
